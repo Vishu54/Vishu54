@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishwesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://vishu54.github.io/](https://vishu54.github.io/)
 
-- 📫 How to reach me **vishu54@hotmail.com**
+- 📫 How to reach me **vishu54@hotmail.com/vishweshkeshri@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,15 +24,14 @@ const vishwesh = {
     technologies: {
         frontEnd: {
             js: ["Reactjs"],
-            css: ["bootstrap"]
+            css: ["bootstrap","MUI"]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["Django"]
+            python: ["Django","FastApi"]
         },
         databases: ["mongo", "MySql", "sqlite"],
     },
-    currentFocus: "Comptetive Programming using C++",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
