@@ -19,8 +19,8 @@
 ```javascript
 const vishwesh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "videography"],
+    code: ["Python", "Javascript", "Go Lang", "C++",  "Java"],
+    askMeAbout: ["web dev", "tech", "api", "system design","micro service],
     technologies: {
         frontEnd: {
             js: ["Reactjs"],
@@ -29,8 +29,19 @@ const vishwesh = {
         backEnd: {
             js: ["node", "express"],
             python: ["Django","FastApi"]
+            go: ["Fiber"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MongoDB", "MySql", "Postgres", "sqlite" , "Redis"],
+        devOps: ["Docker🐳", "Kubernetes", "CI/CD"],
+        cloudServices: ["AWS" , "Azure" , "Heroku"],
+        data-pipeline: ["prefect"],
+        message-broker: ["rabbitmq", "NATS"]
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions", "Swagger"],
+    },
+    architecture: {
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
